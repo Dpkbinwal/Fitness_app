@@ -30,12 +30,15 @@ const HeroBanner = () => {
             Check out the most effective exercises
         </Typography>
 
-
+      <a href="#exercises">
         <Button variant='contained'
-        color ='error' href="#exercises" 
-        sx={{backgroundColor:'#ff2625',padding:'10px'}}
-        >Explore Exercises
+        color ='error'
+        sx={{backgroundColor:'#ff2625',padding:'10px',zIndex :'1'}}
+       
+        >
+          Explore Exercises
         </Button>
+        </a>
         
         
         <Typography
