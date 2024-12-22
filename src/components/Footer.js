@@ -18,7 +18,8 @@ const Footer = () => (
     mt="41px" 
     textAlign="center"
      pb="40px">
-      Made with ❤️ by DPK
+      Made with ❤️ by Sanjeev
+      {/* by DPK */}
       </Typography>
   </Box>
 );
